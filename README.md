@@ -241,12 +241,7 @@ mindmap
 
 <img src="banner-github-analytics.svg" width="100%" alt="GITHUB ANALYTICS" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prasanth1218&show_icons=true&hide_border=true&count_private=true&bg_color=0F0C29&title_color=00F5D4&text_color=E0E0FF&icon_color=F15BB5&ring_color=FEE440" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanth1218&layout=compact&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=E0E0FF" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=prasanth1218&hide_border=true&background=0F0C29&ring=F15BB5&fire=FEE440&currStreakNum=00F5D4&sideNums=E0E0FF&currStreakLabel=F15BB5&sideLabels=E0E0FF&dates=9E9EC8" alt="Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=prasanth1218&theme=darkhub&row=1&column=6&margin-w=8" alt="Trophies" />
 
 <img src="banner-let-s-build-something.svg" width="100%" alt="LET'S BUILD SOMETHING" />
 
