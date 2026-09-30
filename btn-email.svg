@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 334 96" width="100%" role="img" aria-label="EMAIL ME">
+<style>
+.s{animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
+.sp{animation:sp 4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes sp{0%,100%{opacity:.2;transform:scale(.6)}50%{opacity:1;transform:scale(1.15)}}
+</style><style>
+.fl{stroke-dasharray:6 6;animation:fl 1s linear infinite}
+@keyframes fl{to{stroke-dashoffset:-12}}
+.bt{animation:bt 2.4s ease-in-out infinite}
+@keyframes bt{0%,100%{opacity:.85}50%{opacity:1}}
+</style>
+<defs>
+<linearGradient id="hull" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9aa5ff"/></linearGradient>
+<radialGradient id="glass" cx=".35" cy=".3" r=".9"><stop offset="0" stop-color="#e8fffb"/><stop offset=".5" stop-color="#00F5D4"/><stop offset="1" stop-color="#0E75B6"/></radialGradient>
+<linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F5D4"/><stop offset=".5" stop-color="#F15BB5"/><stop offset="1" stop-color="#FEE440"/></linearGradient>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="blur40" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+<filter id="blur8" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05030f"/><stop offset=".5" stop-color="#140a33"/><stop offset="1" stop-color="#1d1447"/></linearGradient><clipPath id="cp"><rect width="334" height="96" rx="14"/></clipPath></defs>
+<g clip-path="url(#cp)">
+<rect width="334" height="96" fill="url(#bg)"/>
+<ellipse cx="80" cy="30" rx="120" ry="40" fill="#7B2FF7" opacity=".3" filter="url(#blur40)"/>
+<ellipse cx="260" cy="70" rx="110" ry="36" fill="#F15BB5" opacity=".22" filter="url(#blur40)"/>
+<circle cx="190.5" cy="60.7" r="1.22" fill="#bfe9ff" class="s" style="animation-delay:2.4s;animation-duration:4.6s"/>
+<circle cx="177.9" cy="50.6" r="1.38" fill="#fff4b0" class="s" style="animation-delay:4.7s;animation-duration:3.0s"/>
+<circle cx="229.5" cy="46.2" r="0.68" fill="#00F5D4" class="s" style="animation-delay:3.2s;animation-duration:2.9s"/>
+<circle cx="103.3" cy="47.6" r="0.45" fill="#fff4b0" class="s" style="animation-delay:4.3s;animation-duration:4.0s"/>
+<circle cx="272.3" cy="26.9" r="0.72" fill="#00F5D4" class="s" style="animation-delay:1.2s;animation-duration:4.6s"/>
+<circle cx="106.7" cy="85.2" r="1.40" fill="#ffffff" class="s" style="animation-delay:3.7s;animation-duration:2.4s"/>
+<circle cx="107.4" cy="23.3" r="0.67" fill="#ffffff" class="s" style="animation-delay:1.8s;animation-duration:4.0s"/>
+<circle cx="185.4" cy="37.3" r="1.09" fill="#ffffff" class="s" style="animation-delay:1.8s;animation-duration:3.9s"/>
+<circle cx="228.1" cy="81.8" r="0.46" fill="#ffffff" class="s" style="animation-delay:0.6s;animation-duration:2.9s"/>
+<circle cx="19.2" cy="26.4" r="0.60" fill="#ffffff" class="s" style="animation-delay:3.4s;animation-duration:3.2s"/>
+<circle cx="199.6" cy="75.8" r="0.99" fill="#ffd6f5" class="s" style="animation-delay:3.9s;animation-duration:2.9s"/>
+<circle cx="23.5" cy="46.2" r="0.78" fill="#bfe9ff" class="s" style="animation-delay:0.6s;animation-duration:4.6s"/>
+<circle cx="5.0" cy="52.1" r="0.84" fill="#bfe9ff" class="s" style="animation-delay:4.4s;animation-duration:4.5s"/>
+<circle cx="288.3" cy="87.3" r="1.13" fill="#ffd6f5" class="s" style="animation-delay:0.2s;animation-duration:2.3s"/>
+<circle cx="201.0" cy="70.0" r="0.86" fill="#ffd6f5" class="s" style="animation-delay:4.7s;animation-duration:3.2s"/>
+<circle cx="157.8" cy="59.7" r="1.16" fill="#ffd6f5" class="s" style="animation-delay:0.1s;animation-duration:3.2s"/>
+<circle cx="268.2" cy="31.2" r="0.51" fill="#ffffff" class="s" style="animation-delay:4.6s;animation-duration:3.0s"/>
+<circle cx="318.1" cy="87.1" r="0.57" fill="#00F5D4" class="s" style="animation-delay:4.8s;animation-duration:4.5s"/>
+<circle cx="144.9" cy="77.7" r="1.33" fill="#bfe9ff" class="s" style="animation-delay:3.8s;animation-duration:3.8s"/>
+<circle cx="170.8" cy="81.6" r="1.03" fill="#00F5D4" class="s" style="animation-delay:0.1s;animation-duration:3.4s"/>
+<circle cx="266.2" cy="81.4" r="0.48" fill="#ffffff" class="s" style="animation-delay:1.0s;animation-duration:2.6s"/>
+<circle cx="317.3" cy="6.9" r="1.33" fill="#ffffff" class="s" style="animation-delay:2.9s;animation-duration:5.0s"/>
+<circle cx="227.0" cy="0.7" r="1.34" fill="#ffd6f5" class="s" style="animation-delay:0.1s;animation-duration:2.3s"/>
+<circle cx="285.5" cy="43.9" r="1.18" fill="#fff4b0" class="s" style="animation-delay:3.9s;animation-duration:4.4s"/>
+<circle cx="76.2" cy="10.8" r="0.77" fill="#00F5D4" class="s" style="animation-delay:2.5s;animation-duration:2.9s"/>
+<circle cx="10.4" cy="64.5" r="1.30" fill="#ffffff" class="s" style="animation-delay:2.5s;animation-duration:2.9s"/>
+<rect x="42" y="26" width="250" height="44" rx="22" fill="#F15BB5" class="bt"/>
+<text x="167" y="54" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="15" letter-spacing="3" fill="#fff">EMAIL ME</text>
+</g>
+<rect x="1" y="1" width="332" height="94" rx="13" fill="none" stroke="#7B2FF7" stroke-opacity=".6" stroke-width="1.5"/>
+</svg>
