@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,30:302B63,60:7B2FF7,100:F15BB5&height=280&section=header&text=PURNA%20VENKATA%20PRASANTH&fontSize=46&fontColor=00F5D4&fontAlignY=40&animation=twinkling&desc=%E2%9C%A6%20I%20build%20AI%20systems%20that%20talk%20to%20each%20other%20%E2%80%94%20and%20the%20cloud%20they%20run%20on%20%E2%9C%A6&descSize=17&descColor=FEE440&descAlignY=63" alt="header" />
-
-<a href="https://github.com/prasanth1218">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=F15BB5&center=true&vCenter=true&width=820&lines=%F0%9F%9A%80+GenAI+%2F+LLM+Application+Engineer;%F0%9F%A4%96+Building+multi-agent+systems+that+work+in+production;%F0%9F%93%9A+Shipping+RAG+apps+that+refuse+to+hallucinate;%E2%98%81%EF%B8%8F+Provisioning+AWS+infra+with+Terraform;%F0%9F%8C%8C+Open+to+relocation+%26+ready+to+own+real+systems" alt="Typing SVG" />
-</a>
+<img src="assets/hero.svg" width="100%" alt="Purna Venkata Prasanth - GenAI / LLM Application Engineer" />
 
 <br/><br/>
 
@@ -15,9 +11,8 @@
 
 <br/>
 
-✦ &nbsp;·&nbsp; ˚ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ˖ &nbsp;·&nbsp; ✦ &nbsp;·&nbsp; ˚ &nbsp;·&nbsp; ✧ &nbsp;·&nbsp; ⋆ &nbsp;·&nbsp; ˖ &nbsp;·&nbsp; ✦
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:0E75B6&height=70&section=header&text=QUICK%20SCAN&fontSize=28&fontColor=00F5D4&animation=fadeIn&fontAlignY=50" alt="Quick Scan" />
+<img src="assets/banner-quick-scan.svg" width="100%" alt="QUICK SCAN" />
 
 ![ROLE](https://img.shields.io/badge/LOOKING_FOR-Entry--level_GenAI_%2F_Cloud_Engineer-7B2FF7?style=for-the-badge&labelColor=0F0C29)
 ![STRENGTH](https://img.shields.io/badge/CORE_STRENGTH-Multi--agent_LLMs_%2B_RAG-F15BB5?style=for-the-badge&labelColor=0F0C29)
@@ -29,7 +24,7 @@
 
 **💫 What sets me apart:** I don't just call an LLM API. I design the whole system (agents, retrieval, validation, streaming, deployment and the infrastructure underneath) and make it **explainable** and **safe against hallucination**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:7B2FF7&height=70&section=header&text=MISSION%20CONTROL&fontSize=28&fontColor=FEE440&animation=fadeIn&fontAlignY=50" alt="Mission Control" />
+<img src="assets/banner-mission-control.svg" width="100%" alt="MISSION CONTROL" />
 
 | | |
 |:---|:---|
@@ -44,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:3A1C71,100:F15BB5&height=70&section=header&text=HOW%20MY%20PROJECTS%20WORK&fontSize=28&fontColor=00F5D4&animation=fadeIn&fontAlignY=50" alt="How my projects work" />
+<img src="assets/banner-how-my-projects-work.svg" width="100%" alt="HOW MY PROJECTS WORK" />
 
 </div>
 
@@ -137,7 +132,7 @@ The whole environment can be torn down and rebuilt from code instead of clicked 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:00B894&height=70&section=header&text=MORE%20MISSIONS&fontSize=28&fontColor=FEE440&animation=fadeIn&fontAlignY=50" alt="More missions" />
+<img src="assets/banner-more-missions.svg" width="100%" alt="MORE MISSIONS" />
 
 </div>
 
@@ -178,7 +173,7 @@ Flags users dropping off mid-flow on e-commerce/SaaS platforms and re-engages th
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7B2FF7,100:0E75B6&height=70&section=header&text=TECH%20ARSENAL&fontSize=28&fontColor=00F5D4&animation=fadeIn&fontAlignY=50" alt="Tech arsenal" />
+<img src="assets/banner-tech-arsenal.svg" width="100%" alt="TECH ARSENAL" />
 
 **🤖 Generative AI**<br/>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -211,7 +206,7 @@ Flags users dropping off mid-flow on e-commerce/SaaS platforms and re-engages th
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:F15BB5&height=70&section=header&text=HOW%20I%20WORK&fontSize=28&fontColor=FEE440&animation=fadeIn&fontAlignY=50" alt="How I work" />
+<img src="assets/banner-how-i-work.svg" width="100%" alt="HOW I WORK" />
 
 </div>
 
@@ -234,7 +229,7 @@ mindmap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:FF9900&height=70&section=header&text=EDUCATION%20%26%20CERTIFICATIONS&fontSize=28&fontColor=00F5D4&animation=fadeIn&fontAlignY=50" alt="Education" />
+<img src="assets/banner-education-certifications.svg" width="100%" alt="EDUCATION & CERTIFICATIONS" />
 
 | | |
 |:---|:---|
@@ -244,7 +239,7 @@ mindmap
 | 💻 **Full Stack Web Development** | Skolar |
 | 🤝 **Certificate of Membership** | NSPE |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:24243E,100:7B2FF7&height=70&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FEE440&animation=fadeIn&fontAlignY=50" alt="GitHub analytics" />
+<img src="assets/banner-github-analytics.svg" width="100%" alt="GITHUB ANALYTICS" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=prasanth1218&show_icons=true&hide_border=true&count_private=true&bg_color=0F0C29&title_color=00F5D4&text_color=E0E0FF&icon_color=F15BB5&ring_color=FEE440" alt="Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanth1218&layout=compact&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=E0E0FF" alt="Top Languages" />
@@ -253,7 +248,7 @@ mindmap
 
 <img src="https://github-profile-trophy.vercel.app/?username=prasanth1218&theme=darkhub&row=1&column=6&margin-w=8" alt="Trophies" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:F15BB5,100:7B2FF7&height=70&section=header&text=LET'S%20BUILD%20SOMETHING&fontSize=28&fontColor=00F5D4&animation=fadeIn&fontAlignY=50" alt="Let's build something" />
+<img src="assets/banner-let-s-build-something.svg" width="100%" alt="LET'S BUILD SOMETHING" />
 
 **I'm looking for an entry-level Generative AI or Cloud Engineering role where I can own real systems.**
 *Relocation welcome.*
@@ -266,6 +261,6 @@ mindmap
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F15BB5,40:7B2FF7,70:302B63,100:0F0C29&height=150&section=footer&text=Thanks%20for%20visiting%20%E2%9C%A6&fontSize=22&fontColor=00F5D4&fontAlignY=68" alt="footer" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
