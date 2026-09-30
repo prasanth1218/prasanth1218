@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Purna Venkata Prasanth - GenAI / LLM Application Engineer" />
+<img src="hero.svg" width="100%" alt="Purna Venkata Prasanth - GenAI / LLM Application Engineer" />
 
 <br/><br/>
 
@@ -12,7 +12,7 @@
 <br/>
 
 
-<img src="assets/banner-quick-scan.svg" width="100%" alt="QUICK SCAN" />
+<img src="banner-quick-scan.svg" width="100%" alt="QUICK SCAN" />
 
 ![ROLE](https://img.shields.io/badge/LOOKING_FOR-Entry--level_GenAI_%2F_Cloud_Engineer-7B2FF7?style=for-the-badge&labelColor=0F0C29)
 ![STRENGTH](https://img.shields.io/badge/CORE_STRENGTH-Multi--agent_LLMs_%2B_RAG-F15BB5?style=for-the-badge&labelColor=0F0C29)
@@ -24,7 +24,7 @@
 
 **💫 What sets me apart:** I don't just call an LLM API. I design the whole system (agents, retrieval, validation, streaming, deployment and the infrastructure underneath) and make it **explainable** and **safe against hallucination**.
 
-<img src="assets/banner-mission-control.svg" width="100%" alt="MISSION CONTROL" />
+<img src="banner-mission-control.svg" width="100%" alt="MISSION CONTROL" />
 
 | | |
 |:---|:---|
@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="assets/banner-how-my-projects-work.svg" width="100%" alt="HOW MY PROJECTS WORK" />
+<img src="banner-how-my-projects-work.svg" width="100%" alt="HOW MY PROJECTS WORK" />
 
 </div>
 
@@ -132,7 +132,7 @@ The whole environment can be torn down and rebuilt from code instead of clicked 
 
 <div align="center">
 
-<img src="assets/banner-more-missions.svg" width="100%" alt="MORE MISSIONS" />
+<img src="banner-more-missions.svg" width="100%" alt="MORE MISSIONS" />
 
 </div>
 
@@ -173,7 +173,7 @@ Flags users dropping off mid-flow on e-commerce/SaaS platforms and re-engages th
 
 <div align="center">
 
-<img src="assets/banner-tech-arsenal.svg" width="100%" alt="TECH ARSENAL" />
+<img src="banner-tech-arsenal.svg" width="100%" alt="TECH ARSENAL" />
 
 **🤖 Generative AI**<br/>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -206,7 +206,7 @@ Flags users dropping off mid-flow on e-commerce/SaaS platforms and re-engages th
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<img src="assets/banner-how-i-work.svg" width="100%" alt="HOW I WORK" />
+<img src="banner-how-i-work.svg" width="100%" alt="HOW I WORK" />
 
 </div>
 
@@ -229,7 +229,7 @@ mindmap
 
 <div align="center">
 
-<img src="assets/banner-education-certifications.svg" width="100%" alt="EDUCATION & CERTIFICATIONS" />
+<img src="banner-education-certifications.svg" width="100%" alt="EDUCATION & CERTIFICATIONS" />
 
 | | |
 |:---|:---|
@@ -239,7 +239,7 @@ mindmap
 | 💻 **Full Stack Web Development** | Skolar |
 | 🤝 **Certificate of Membership** | NSPE |
 
-<img src="assets/banner-github-analytics.svg" width="100%" alt="GITHUB ANALYTICS" />
+<img src="banner-github-analytics.svg" width="100%" alt="GITHUB ANALYTICS" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=prasanth1218&show_icons=true&hide_border=true&count_private=true&bg_color=0F0C29&title_color=00F5D4&text_color=E0E0FF&icon_color=F15BB5&ring_color=FEE440" alt="Stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanth1218&layout=compact&hide_border=true&bg_color=0F0C29&title_color=00F5D4&text_color=E0E0FF" alt="Top Languages" />
@@ -248,7 +248,7 @@ mindmap
 
 <img src="https://github-profile-trophy.vercel.app/?username=prasanth1218&theme=darkhub&row=1&column=6&margin-w=8" alt="Trophies" />
 
-<img src="assets/banner-let-s-build-something.svg" width="100%" alt="LET'S BUILD SOMETHING" />
+<img src="banner-let-s-build-something.svg" width="100%" alt="LET'S BUILD SOMETHING" />
 
 **I'm looking for an entry-level Generative AI or Cloud Engineering role where I can own real systems.**
 *Relocation welcome.*
@@ -261,6 +261,6 @@ mindmap
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
+<img src="footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
